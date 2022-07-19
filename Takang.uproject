@@ -287,10 +287,6 @@
 			]
 		},
 		{
-			"Name": "OnlineSubsystem",
-			"Enabled": false
-		},
-		{
 			"Name": "PerforceSourceControl",
 			"Enabled": false
 		},
