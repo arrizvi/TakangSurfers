@@ -1,0 +1,24 @@
+Begin Object Class=/Script/Engine.Material Name="Atlas_BAKED"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/final_patch/Atlas_t.Atlas_t"'
+      MaterialExpressionEditorX=-260
+      MaterialExpressionGuid=2025335247815825C6DDCBAF0C622023
+      Material=Material'"Atlas_BAKED"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   TwoSided=True
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=099B76AF4EF5EA433D0542B7A7520541
+   ReferencedTextureGuids(0)=D1D0EA5D450167484C7F51AAB80B37B9
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="Atlas_t",TextureReference="/Game/final_patch/Atlas_t.Atlas_t")
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=4D4742F24D5C0DCDFCEF39BDA3331B28
+End Object
