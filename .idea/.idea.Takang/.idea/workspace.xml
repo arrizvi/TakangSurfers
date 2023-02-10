@@ -12,6 +12,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Takang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Takang/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/BPClass/BP_Floor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BPClass/BP_Floor.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/SubwayMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/SubwayMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Takang/Track.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Takang/Track.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Takang/Track.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Takang/Track.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -380,7 +382,7 @@
       <workItem from="1675613747329" duration="4203000" />
       <workItem from="1675707235706" duration="4159000" />
       <workItem from="1675881374231" duration="3032000" />
-      <workItem from="1676052219269" duration="704000" />
+      <workItem from="1676052219269" duration="1108000" />
     </task>
     <servers />
   </component>

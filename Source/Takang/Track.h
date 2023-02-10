@@ -55,6 +55,8 @@ public:
 	TSubclassOf<AActor> RocketRef;
 	UPROPERTY(EditAnywhere,BlueprintReadOnly)
 	TSubclassOf<AActor> BoardRef;
+	UPROPERTY(EditAnywhere,BlueprintReadOnly)
+	bool CanSpawnHurdles=true;
 	
 	UPROPERTY(EditAnywhere,BlueprintReadOnly)
 	class USplineComponent* SpawningSpline;

@@ -119,15 +119,18 @@ void ATrack::ObjectsSpawn(USplineComponent* SplineRef)
 		{
 			if(FMath::RandBool())
 			{
-				if(FMath::RandBool())
+				if(CanSpawnHurdles)
 				{
-					SpawnHurdles(SplineTransform,FRotator(0,0,0),true);
-					continue;
-				}
-				else
-				{
-					SpawnHurdles(SplineTransform,FRotator(0,0,0),false);
-					continue;
+					if(FMath::RandBool())
+					{
+						SpawnHurdles(SplineTransform,FRotator(0,0,0),true);
+						continue;
+					}
+					else
+					{
+						SpawnHurdles(SplineTransform,FRotator(0,0,0),false);
+						continue;
+					}
 				}
 			}
 		}
