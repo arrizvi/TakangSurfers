@@ -9,139 +9,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2cccdf0-679a-422e-bd86-a9b8fb6c4eeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Takang/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Takang/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Takang/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Takang/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Takang/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Takang/EHurdleType.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Takang/Hurdles_Parent.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Takang/Hurdles_Parent.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Takang/TakangController.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Takang/TakangController.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Takang/TakangGameMode.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/Takang/TakangGameMode.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AllNew/colin-watts-u4ijcCaprRc-unsplash.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AllNew/untitled_Back_Patch_001.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AllNew/untitled_Plane_001.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AllNew/untitled_Tack_004.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/BPClass/BranchHurdle.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/BPClass/Coin.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/BPClass/Coins.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/BPClass/HoverBoard.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/BPClass/JetPack.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/BPClass/Magnet.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/BPClass/MyGameMode.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/BPClass/StoneHurdle.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/BPClass/SubwayCharacter.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/BPClass/TakangCharacter.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/BPClass/Trackspline.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/BPClass/coins_magnets_coins.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/BPClass/coins_magnets_megnet.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/BPClass/myControllerNew.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Character/NewFolder/Falling_Back_Death.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/NewFolder/Falling_Back_Death.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Character/NewFolder/SubwayCharacter_AnimBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/NewFolder/SubwayCharacter_AnimBP.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Environment.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Environment_Temp.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPersonIdle.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPersonRun.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPersonWalk.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Mesh/SK_Mannequin_Skeleton.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Textures/T_UE4_Mannequin_Mobile_M.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Textures/T_UE4_Mannequin_Mobile_N.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Material_001.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewAssets/1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewAssets/1__1_.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewAssets/2.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewAssets/2__1_.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewAssets/3.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewAssets/3__1_.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewAssets/Icon.png.192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewAssets/Icon_png_192x192.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewAssets/Launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewAssets/Launcher.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewAssets/Untitled-1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewAssets/Untitled-1_0000_text.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewAssets/Untitled-1_0001_Layer-1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewCharacter/2ndCharacter_Mat.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewCharacter/2ndCharacter_Mesh.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewCharacter/2ndCharacter_Texture.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewCharacter/2ndCharacter_phy.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewCharacter/3rdCharacter.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewCharacter/Girl1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewCharacter/astronout_PhysicsAsset.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewCharacter/girl.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewCharacter/girl_PhysicsAsset.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewCharacter/santa.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewCharacter/santa_PhysicsAsset.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Takang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Takang/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/BPClass/BP_Floor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BPClass/BP_Floor.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/SubwayMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/SubwayMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonBP/Blueprints/SubwayCharacter.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/CharacterSelectionScreen.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/Coin.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/GAmeOver.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/GameScreen.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/MainScreen.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/NewAssets/Group_1_copy.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/NewAssets/Untitled-1_0000_text.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/NewAssets/left.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/NewAssets/main-menu_0017_Group-2-copy.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/NewAssets/main-menu_0029_Group-5-copy.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/NewAssets/main-menu_0029_Group-5-copy__2_.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/NewAssets/right.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/NewAssets/sound.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/PauseGameMenue.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/Settings.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/SettingsScreen.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/Staatliches-Regular.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/Staatliches-Regular_Font.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/back__1_.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/character_select_button.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/free-coin-icon-794-thumb.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/game_over.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/main-menu_0013_Group-2-copy-2.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/main-menu_0023_Group-2-copy-2.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/main-menu_0024_Group-2-copy.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/main-menu_0025_Group-6.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/main-menu_0027_Group-4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/main-menu_0032_Group-2.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/pause.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/reastr__1_.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/score-icon-8.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/unnamed.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/colin-watts-u4ijcCaprRc-unsplash.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/tracks_001.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/tracks_001.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Takang.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Takang.uproject" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../../../../Program Files/Epic Games/UE_4.27/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../Program Files/Epic Games/UE_4.27/Engine/Source/Runtime/Engine/Private/Components/CharacterMovementComponent.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -322,6 +197,16 @@
         <option name="PASS_PARENT_ENVS" value="1" />
         <option name="USE_EXTERNAL_CONSOLE" value="0" />
       </configuration_15>
+      <configuration_16>
+        <option name="CONFIGURATION" value="" />
+        <option name="PLATFORM" value="" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/Takang.vcxproj" />
+        <option name="EXE_PATH" value="$(TargetPath)" />
+        <option name="PROGRAM_PARAMETERS" value="" />
+        <option name="WORKING_DIRECTORY" value="$(ProjectDir)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_16>
       <option name="DEFAULT_PROJECT_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/Takang.vcxproj" />
       <method v="2">
         <option name="Build" />
@@ -495,6 +380,7 @@
       <workItem from="1675613747329" duration="4203000" />
       <workItem from="1675707235706" duration="4159000" />
       <workItem from="1675881374231" duration="3032000" />
+      <workItem from="1676052219269" duration="704000" />
     </task>
     <servers />
   </component>
